@@ -1,0 +1,10 @@
+c:\users\c4rds\source\repos\Juros Comopostos\Juros Comopostos\bin\Debug\Juros Comopostos.exe.config
+c:\users\c4rds\source\repos\Juros Comopostos\Juros Comopostos\bin\Debug\Juros Comopostos.exe
+c:\users\c4rds\source\repos\Juros Comopostos\Juros Comopostos\bin\Debug\Juros Comopostos.pdb
+c:\users\c4rds\source\repos\Juros Comopostos\Juros Comopostos\obj\Debug\Juros Comopostos.csprojAssemblyReference.cache
+c:\users\c4rds\source\repos\Juros Comopostos\Juros Comopostos\obj\Debug\Juros_Comopostos.Form1.resources
+c:\users\c4rds\source\repos\Juros Comopostos\Juros Comopostos\obj\Debug\Juros_Comopostos.Properties.Resources.resources
+c:\users\c4rds\source\repos\Juros Comopostos\Juros Comopostos\obj\Debug\Juros Comopostos.csproj.GenerateResource.cache
+c:\users\c4rds\source\repos\Juros Comopostos\Juros Comopostos\obj\Debug\Juros Comopostos.csproj.CoreCompileInputs.cache
+c:\users\c4rds\source\repos\Juros Comopostos\Juros Comopostos\obj\Debug\Juros Comopostos.exe
+c:\users\c4rds\source\repos\Juros Comopostos\Juros Comopostos\obj\Debug\Juros Comopostos.pdb
